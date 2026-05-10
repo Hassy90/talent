@@ -433,7 +433,7 @@ const Talent = () => {
   </span>
 </div>
 
-
+  
  
 
    </div>
@@ -596,7 +596,7 @@ const Talent = () => {
     <img className = "site-logo" src={footerLogo}/> 
       </div>
 </footer>
-            
+           <div><h1>Hello</h1></div>  
         
     </>)
 };
